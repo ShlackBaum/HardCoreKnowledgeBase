@@ -1,0 +1,7 @@
+.*img.*
+.*png.*
+.*jpg.*
+.*jpeg.*
+.*tiff.*
+.*css.*
+.*js.*

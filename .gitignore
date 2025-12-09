@@ -1,0 +1,44 @@
+# --- System & IDE ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Security (Ключи и доступы) ---
+.env
+.env.local
+*.pem
+*.key
+id_rsa
+secrets.json
+passwords.txt
+creds.xml
+_private/
+
+# --- Heavy Binaries (Софт и Архивы) ---
+# Git - для кода и текстов. Софт храним в Облаке, тут только ссылки!
+*.exe
+*.dll
+*.so
+*.dmg
+*.iso
+*.bin
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# --- GitBook Build ---
+# Папка, куда GitBook генерирует сайт (если собирать локально)
+_book/
+node_modules/
+package-lock.json
+yarn.lock
+
+# --- Logs ---
+*.log
+npm-debug.log*
+

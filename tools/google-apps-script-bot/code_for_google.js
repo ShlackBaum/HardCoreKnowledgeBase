@@ -22,10 +22,26 @@ function doPost(e) {
     var cleanText = formattedText.replace("@" + botUsername, "").trim();
     if (!cleanText) return; 
 
-    // 3. ЗАГОЛОВОК
-    const rawWords = cleanText.replace(/[*_`\[\]]/g, '').split(/\s+/);
-    const validWords = rawWords.filter(function(w) { return !w.startsWith('http') && !w.startsWith('('); });
-    var humanTitle = validWords.slice(0, 7).join(' ');
+    // 3. ЗАГОЛОВОК (Умный поиск первой строки с текстом)
+    var lines = cleanText.split('\n');
+    var humanTitle = "";
+    
+    for (var i = 0; i < lines.length; i++) {
+      // Чистим строку от Markdown
+      var line = lines[i].replace(/[*_`\[\]]/g, '').trim();
+      // Разбиваем на слова
+      var words = line.split(/\s+/);
+      // Фильтруем мусор: теги (@...), ссылки (http), скобки
+      var meaningfulWords = words.filter(function(w) { 
+        return w && !w.startsWith('@') && !w.startsWith('http') && !w.startsWith('('); 
+      });
+      
+      if (meaningfulWords.length > 0) {
+        humanTitle = meaningfulWords.slice(0, 7).join(' ');
+        break; 
+      }
+    }
+    
     if (!humanTitle) humanTitle = "Заметка без названия";
 
     // 4. ДАННЫЕ

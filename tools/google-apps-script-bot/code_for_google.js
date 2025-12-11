@@ -25,21 +25,22 @@ function doPost(e) {
     // 3. ЗАГОЛОВОК
     const rawWords = cleanText.replace(/[*_`\[\]]/g, '').split(/\s+/);
     const validWords = rawWords.filter(function(w) { return !w.startsWith('http') && !w.startsWith('('); });
-    var humanTitle = validWords.slice(0, 5).join(' ');
-    if (!humanTitle) humanTitle = "Заметка";
+    var humanTitle = validWords.slice(0, 7).join(' ');
+    if (!humanTitle) humanTitle = "Заметка без названия";
 
     // 4. ДАННЫЕ
     const user = msg.from.username || msg.from.first_name || "Anon";
     const dateObj = new Date();
     
-    const menuDate = Utilities.formatDate(dateObj, "GMT+3", "dd-MM HH:mm");
-    const menuTitle = menuDate + " @" + user + " - " + humanTitle;
+    // Меню: Только заголовок (без даты и юзера)
+    const menuTitle = humanTitle;
     
+    // Файл: Дата-Юзер
     const fileDate = Utilities.formatDate(dateObj, "GMT+3", "dd-MM-HHmm");
     const seconds = Utilities.formatDate(dateObj, "GMT+3", "ss");
     const filename = fileDate + seconds + "-" + user + ".md"; 
     
-    const content = "# " + humanTitle + "\n\n**Дата:** " + menuDate + "\n**Автор:** @" + user + "\n\n---\n\n" + cleanText;
+    const content = "# " + humanTitle + "\n\n**Дата:** " + Utilities.formatDate(dateObj, "GMT+3", "dd.MM.yyyy HH:mm") + "\n**Автор:** @" + user + "\n\n---\n\n" + cleanText;
     
     // 5. ЗАГРУЗКА
     const noteRes = uploadToGitHub("chaos/" + filename, content);

@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [Первая заметка вручную](chaos/1212-002236-seo_sbm.md)
 * [12-12 00:16 @seo_sbm](chaos/12-12-001623-seo_sbm.md)
 * [12-12 00:16 @seo_sbm](chaos/12-12-001601-seo_sbm.md)
 * [12-12 00:15 @seo_sbm](chaos/12-12-001528-seo_sbm.md)

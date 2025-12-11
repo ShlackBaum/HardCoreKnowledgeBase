@@ -37,4 +37,5 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [Первая ботовая запись в ЛС](chaos/1212-002504-seo_sbm.md)
 * [Заметки на разбор](chaos/README.md)

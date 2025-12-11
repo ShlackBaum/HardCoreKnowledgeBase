@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [У нас появился адрес для временной базы](chaos/12-12-004326-seo_sbm.md)
 * [@theodorpreston @istopnik @seosbm @thelastlogin @TianaVO @dm...](chaos/12-12-004035-seo_sbm.md)
 * [12-12 00:38 @seo_sbm - @theodorpreston @istopnik @seosbm @th...](chaos/12-12-003828-seo_sbm.md)
 * [У нас появился адрес для](chaos/1212-003705-seo_sbm.md)

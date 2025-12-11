@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [12-12 00:38 @seo_sbm - @theodorpreston @istopnik @seosbm @th...](chaos/12-12-003828-seo_sbm.md)
 * [У нас появился адрес для](chaos/1212-003705-seo_sbm.md)
 * [У нас появился адрес для](chaos/1212-003019-seo_sbm.md)
 * [Первая тестовая запись из чата](chaos/1212-002552-seo_sbm.md)

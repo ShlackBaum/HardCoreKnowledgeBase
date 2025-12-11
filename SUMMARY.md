@@ -37,4 +37,5 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [У нас появился адрес для временной базы](chaos/12-12-25-u-nas-poyavilsya-adres-dlya-vremennoj-bazy.md)
 * [Заметки на разбор](chaos/README.md)

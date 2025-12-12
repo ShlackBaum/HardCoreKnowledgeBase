@@ -37,5 +37,6 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [ЯВМ В мониторинге запросов при экспорте месяцев](chaos/12-12-25-yavm-v-monitoringe-zaprosov-pri-e-ksporte-mesyacze.md)
 * [У нас появился адрес для временной базы](chaos/12-12-25-u-nas-poyavilsya-adres-dlya-vremennoj-bazy.md)
 * [Заметки на разбор](chaos/README.md)

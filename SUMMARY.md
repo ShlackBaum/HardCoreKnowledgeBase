@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [ПФ презентация Декабрь 2025](chaos/15-12-25-pf-prezentacziya-dekabr-2025.md)
 * [ЯВМ В мониторинге запросов при экспорте месяцев](chaos/12-12-25-yavm-v-monitoringe-zaprosov-pri-e-ksporte-mesyacze.md)
 * [У нас появился адрес для временной базы](chaos/12-12-25-u-nas-poyavilsya-adres-dlya-vremennoj-bazy.md)
 * [Заметки на разбор](chaos/README.md)

@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [/start](chaos/17-12-25-start.md)
 * [Промт/промежуточный отчет+план дальнейших работ в гугл аи](chaos/17-12-25-promt-promezhutochny-j-otchet-plan-dal-nejshix-rab.md)
 * [Основные блоки SEO-процесса](chaos/17-12-25-osnovny-e-bloki-seo-proczessa.md)
 * [Автоматический скоринг статей/страниц на E-E-A-T с помощью](chaos/17-12-25-avtomaticheskij-skoring-statej-stranicz-na-e-e-a-t.md)

@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [Автоматический скоринг статей/страниц на E-E-A-T с помощью](chaos/17-12-25-avtomaticheskij-skoring-statej-stranicz-na-e-e-a-t.md)
 * [ПФ презентация Декабрь 2025](chaos/15-12-25-pf-prezentacziya-dekabr-2025.md)
 * [ЯВМ В мониторинге запросов при экспорте месяцев](chaos/12-12-25-yavm-v-monitoringe-zaprosov-pri-e-ksporte-mesyacze.md)
 * [У нас появился адрес для временной базы](chaos/12-12-25-u-nas-poyavilsya-adres-dlya-vremennoj-bazy.md)

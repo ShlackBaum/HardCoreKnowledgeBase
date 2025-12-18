@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [BootyBoost. Надёжный линкбилдинг в нишах с повышенной](chaos/18-12-25-bootyboost-nadyozhny-j-linkbilding-v-nishax-s-povy.md)
 * [Ребят хотим напомнить вам про отзывы наши](chaos/18-12-25-rebyat-xotim-napomnit-vam-pro-otzy-vy-nashi.md)
 * [Внести чеклист переезда проекта с другого домена](chaos/18-12-25-vnesti-cheklist-pereezda-proekta-s-drugogo-domena.md)
 * [/start](chaos/17-12-25-start.md)

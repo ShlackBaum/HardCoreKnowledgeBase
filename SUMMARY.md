@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [Внести чеклист переезда проекта с другого домена](chaos/18-12-25-vnesti-cheklist-pereezda-proekta-s-drugogo-domena.md)
 * [/start](chaos/17-12-25-start.md)
 * [Промт/промежуточный отчет+план дальнейших работ в гугл аи](chaos/17-12-25-promt-promezhutochny-j-otchet-plan-dal-nejshix-rab.md)
 * [Основные блоки SEO-процесса](chaos/17-12-25-osnovny-e-bloki-seo-proczessa.md)

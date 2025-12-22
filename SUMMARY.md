@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [/about](chaos/22-12-25-about.md)
 * [Привет](chaos/22-12-25-privet.md)
 * [/start](chaos/22-12-25-start.md)
 * [Вероятно внести чекап или автоматизированную сигнализацию по](chaos/22-12-25-veroyatno-vnesti-chekap-ili-avtomatizirovannuyu-si.md)

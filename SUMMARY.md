@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [Внести проверки на 502 другие) в GSC-проверки](chaos/22-12-25-vnesti-proverki-na-502-drugie-v-gsc-proverki.md)
 * [Промпт для составления рыбы отчёта. Ускоряет -](chaos/22-12-25-prompt-dlya-sostavleniya-ry-by-otchyota-uskoryaet.md)
 * [Промпт для анализа КНДРК на основании отдельных](chaos/22-12-25-prompt-dlya-analiza-kndrk-na-osnovanii-otdel-ny-x.md)
 * [УСЛУГА: пишем отзывы на заказ!](chaos/18-12-25-usluga-pishem-otzy-vy-na-zakaz.md)

@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [/mute](chaos/22-12-25-mute.md)
 * [/setname](chaos/22-12-25-setname.md)
 * [/about](chaos/22-12-25-about.md)
 * [Привет](chaos/22-12-25-privet.md)

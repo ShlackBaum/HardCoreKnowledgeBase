@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [Промпт для анализа КНДРК на основании отдельных](chaos/22-12-25-prompt-dlya-analiza-kndrk-na-osnovanii-otdel-ny-x.md)
 * [УСЛУГА: пишем отзывы на заказ!](chaos/18-12-25-usluga-pishem-otzy-vy-na-zakaz.md)
 * [BootyBoost. Надёжный линкбилдинг в нишах с повышенной](chaos/18-12-25-bootyboost-nadyozhny-j-linkbilding-v-nishax-s-povy.md)
 * [Ребят хотим напомнить вам про отзывы наши](chaos/18-12-25-rebyat-xotim-napomnit-vam-pro-otzy-vy-nashi.md)

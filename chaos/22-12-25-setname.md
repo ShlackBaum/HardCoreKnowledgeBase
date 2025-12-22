@@ -1,0 +1,8 @@
+# /setname
+
+**Дата:** 22.12.2025 17:57
+**Автор:** @dmitriy_prodvigenie
+
+---
+
+/setname

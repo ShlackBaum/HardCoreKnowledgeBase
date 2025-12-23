@@ -37,6 +37,7 @@
 * [Разное](other/README.md)
 
 ## ХАОС (Inbox)
+* [МНЕНИЕ 23.12.2025](chaos/23-12-25-mnenie-23-12-2025.md)
 * [регламент анализа конверсионных маршрутов](chaos/23-12-25-reglament-analiza-konversionny-x-marshrutov.md)
 * [Как повлиять на сниппеты в ПС?](chaos/23-12-25-kak-povliyat-na-snippety-v-ps.md)
 * [Как повлиять на Description?](chaos/23-12-25-kak-povliyat-na-description.md)

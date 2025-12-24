@@ -58,6 +58,7 @@
 * [Доступы и реквизиты](арсенал/доступы-и-реквизиты.md)
 
 ## ХАОС (Inbox)
+* [Промпт для составления рыбы отчёта. Ускоряет -](chaos/24-12-25-prompt-dlya-sostavleniya-ry-by-otchyota-uskoryaet.md)
 * [МНЕНИЕ 23.12.2025](chaos/23-12-25-mnenie-23-12-2025.md)
 * [регламент анализа конверсионных маршрутов](chaos/23-12-25-reglament-analiza-konversionny-x-marshrutov.md)
 * [Как повлиять на сниппеты в ПС?](chaos/23-12-25-kak-povliyat-na-snippety-v-ps.md)

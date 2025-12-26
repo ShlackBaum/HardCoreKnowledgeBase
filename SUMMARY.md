@@ -58,6 +58,7 @@
 * [Доступы и реквизиты](арсенал/доступы-и-реквизиты.md)
 
 ## ХАОС (Inbox)
+* [В любом аналитическом или структурном тексте должно](chaos/26-12-25-v-lyubom-analiticheskom-ili-strukturnom-tekste-dol.md)
 * [Я на днях переделывал основную массу своих](chaos/26-12-25-ya-na-dnyax-peredely-val-osnovnuyu-massu-svoix.md)
 * [Промпт для составления рыбы отчёта. Ускоряет -](chaos/24-12-25-prompt-dlya-sostavleniya-ry-by-otchyota-uskoryaet.md)
 * [МНЕНИЕ 23.12.2025](chaos/23-12-25-mnenie-23-12-2025.md)

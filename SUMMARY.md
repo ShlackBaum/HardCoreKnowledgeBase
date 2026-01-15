@@ -58,6 +58,7 @@
 * [Доступы и реквизиты](арсенал/доступы-и-реквизиты.md)
 
 ## ХАОС (Inbox)
+* [№ 24 Странное поведение Яндекса такого нет)](chaos/15-01-26-24-strannoe-povedenie-yandeksa-takogo-net.md)
 * [СТРАННОСТИ ИНДЕКСАЦИИ](chaos/15-01-26-strannosti-indeksaczii.md)
 * [🛡 ТРАСТ И ИНДЕКСАЦИЯ](chaos/15-01-26-trast-i-indeksacziya.md)
 * [У меня состоялся сегодня разговор с забугорным](chaos/15-01-26-u-menya-sostoyalsya-segodnya-razgovor-s-zabugorny-.md)

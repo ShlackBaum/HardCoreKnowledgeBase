@@ -58,6 +58,7 @@
 * [Доступы и реквизиты](арсенал/доступы-и-реквизиты.md)
 
 ## ХАОС (Inbox)
+* [В рубрику "Мета-лайфхаки для работы с ИИ"](chaos/15-01-26-v-rubriku-meta-lajfxaki-dlya-raboty-s-ii.md)
 * [↘️ Почему слабые страницы тянут ваш сайт](chaos/13-01-26-pochemu-slaby-e-straniczy-tyanut-vash-sajt.md)
 * [В любом аналитическом или структурном тексте должно](chaos/26-12-25-v-lyubom-analiticheskom-ili-strukturnom-tekste-dol.md)
 * [Я на днях переделывал основную массу своих](chaos/26-12-25-ya-na-dnyax-peredely-val-osnovnuyu-massu-svoix.md)

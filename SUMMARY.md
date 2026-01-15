@@ -58,6 +58,7 @@
 * [Доступы и реквизиты](арсенал/доступы-и-реквизиты.md)
 
 ## ХАОС (Inbox)
+* [Внести в регламентную базу топ - ии](chaos/15-01-26-vnesti-v-reglamentnuyu-bazu-top-ii.md)
 * [№ 55 Не делать поддомены 100% копией](chaos/15-01-26-55-ne-delat-poddomeny-100-kopiej.md)
 * [Техническая специфика: Google может не обработать весь](chaos/15-01-26-texnicheskaya-speczifika-google-mozhet-ne-obrabota.md)
 * [№ 43 Generic-статьи создают "шум" — широкие](chaos/15-01-26-43-generic-stat-i-sozdayut-shum-shirokie.md)

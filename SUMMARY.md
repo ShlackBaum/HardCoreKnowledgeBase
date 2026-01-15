@@ -58,6 +58,7 @@
 * [Доступы и реквизиты](арсенал/доступы-и-реквизиты.md)
 
 ## ХАОС (Inbox)
+* [🛡 ТРАСТ И ИНДЕКСАЦИЯ](chaos/15-01-26-trast-i-indeksacziya.md)
 * [У меня состоялся сегодня разговор с забугорным](chaos/15-01-26-u-menya-sostoyalsya-segodnya-razgovor-s-zabugorny-.md)
 * [В рубрику "Мета-лайфхаки для работы с ИИ"](chaos/15-01-26-v-rubriku-meta-lajfxaki-dlya-raboty-s-ii.md)
 * [↘️ Почему слабые страницы тянут ваш сайт](chaos/13-01-26-pochemu-slaby-e-straniczy-tyanut-vash-sajt.md)

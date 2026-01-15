@@ -58,6 +58,7 @@
 * [Доступы и реквизиты](арсенал/доступы-и-реквизиты.md)
 
 ## ХАОС (Inbox)
+* [№ 43 Generic-статьи создают "шум" — широкие](chaos/15-01-26-43-generic-stat-i-sozdayut-shum-shirokie.md)
 * [ау, Бля](chaos/15-01-26-au-blya.md)
 * [РЕГИОНАЛЬНОСТЬ](chaos/15-01-26-regional-nost.md)
 * [№ 24 Странное поведение Яндекса такого нет)](chaos/15-01-26-24-strannoe-povedenie-yandeksa-takogo-net.md)

@@ -58,6 +58,7 @@
 * [Доступы и реквизиты](арсенал/доступы-и-реквизиты.md)
 
 ## ХАОС (Inbox)
+* [🧗‍♂️ Растим конверсии сайта с помощью мини-кейсов](chaos/13-02-26-rastim-konversii-sajta-s-pomoshh-yu-mini-kejsov.md)
 * [Как закрыть проект от индексации ИИ-шными сервисами](chaos/21-01-26-kak-zakry-t-proekt-ot-indeksaczii-ii-shny-mi-servi.md)
 * [Внести в регламентную базу топ - ии](chaos/15-01-26-vnesti-v-reglamentnuyu-bazu-top-ii.md)
 * [№ 55 Не делать поддомены 100% копией](chaos/15-01-26-55-ne-delat-poddomeny-100-kopiej.md)

@@ -58,6 +58,7 @@
 * [Доступы и реквизиты](арсенал/доступы-и-реквизиты.md)
 
 ## ХАОС (Inbox)
+* [ТГ-Канал чувака, занимающегося забугорным SEO](chaos/25-06-26-tg-kanal-chuvaka-zanimayushhegosya-zabugorny-m-seo.md)
 * [Чекап](chaos/25-06-26-chekap.md)
 * [Почему ИИ-рекомендации нестабильны?](chaos/18-02-26-pochemu-ii-rekomendaczii-nestabil-ny.md)
 * [Слияние Алисы и Нейро: Яндекс завершил интеграцию](chaos/17-02-26-sliyanie-alisy-i-nejro-yandeks-zavershil-integracz.md)
